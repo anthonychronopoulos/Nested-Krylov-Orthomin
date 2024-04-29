@@ -1,7 +1,7 @@
 # Nested-Krylov-Orthomin
 ==========================
-PROGRAM AUTHORS:
-D. Slavchev (dimitargslavchev@abv.bg) , T. Abe (abe.toshihiko24@gmail.com), A. T. Chronopoulos (antony.tc@gmail.com) 
+
+PROGRAM AUTHORS: D. Slavchev (dimitargslavchev@abv.bg) , T. Abe (abe.toshihiko24@gmail.com), A. T. Chronopoulos (antony.tc@gmail.com) 
 ---------------------------------------------------------------------------------------------------
 PROBLEM SOLVED: Sparse linear system A x=b 
 
