@@ -1,20 +1,17 @@
 # Nested-Krylov-Orthomin
 ==========================
-Nested Krylov Methods (GRC, Orthomin) for Solving Sparse Linear Systems
-========================================================================
 PROGRAM AUTHORS:
 D. Slavchev (dimitargslavchev@abv.bg) , T. Abe (abe.toshihiko24@gmail.com), A. T. Chronopoulos (antony.tc@gmail.com) 
 ---------------------------------------------------------------------------------------------------
-PROBLEM: Sparse linear system A x=b 
+PROBLEM SOLVED: Sparse linear system A x=b 
 
-Sparse matrix data-files downloaded from (MM format)
+Sparse matrix data-files (MM format) downloaded from 
 ---------------------------------------------------------
 https://math.nist.gov/MatrixMarket/
 https://www.cise.ufl.edu/research/sparse/matrices/list_by_id.html
 
 
-METHODS: Nested Krylov (GRC)
-PROGRAM FILES (MATLAB) :
+Nested Krylov (GRC) PROGRAM FILES (in MATLAB) :
 ------------------------------------------------------------------
 main_all, mmread, program_grcmgs, program_grcmgsmr, program_orthomin, sub_gmres  
 MATRIX FILE (EXAMPLE): raefsky2.mtx  
